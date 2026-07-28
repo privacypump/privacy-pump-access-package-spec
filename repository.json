@@ -1,0 +1,8 @@
+{
+  "name": "privacy-pump-access-package-spec",
+  "description": "Provider-neutral schemas for encrypted wallet-scoped Private Vault access packages.",
+  "maturity": "Conceptual specification",
+  "network": "Provider-independent",
+  "topics": ["privacy-pump", "privacy", "cryptography", "security"],
+  "visibility": "public-after-verification"
+}
